@@ -1,0 +1,11 @@
+.nav .active{
+  background: brown !important;
+  /* color: white !important; */
+}
+.nav .nav-item a{
+  text-decoration: none;
+  color: black;
+}
+.nav .active a{
+  color: white !important;
+}
